@@ -3,11 +3,8 @@
   "name": "YouTube - YTMusic Toggle",
   "version": "1.0",
   "description": "Toggle between YouTube and YouTube Music for the current video.",
-  "permissions": ["tabs", "scripting"],
-  "host_permissions": [
-    "https://www.youtube.com/*",
-    "https://music.youtube.com/*"
-  ],
+  "permissions": ["tabs"],
+  "host_permissions": [],
 
   "icons": {
     "128": "icon.png"
